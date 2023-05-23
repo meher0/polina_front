@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494510823926",
+    "project_id": "polina-dfab9",
+    "storage_bucket": "polina-dfab9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494510823926:android:e4fe346d2e06f21f904fd7",
+        "android_client_info": {
+          "package_name": "com.example.authlaravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494510823926-o3c03ccvhugs7k8ultr80es73jqvc8uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBejuLGZABpnLWZfriNBqxxrcLOpC59OFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494510823926-o3c03ccvhugs7k8ultr80es73jqvc8uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
